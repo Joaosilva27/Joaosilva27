@@ -34,6 +34,7 @@ I'm João Gonçalo Ferreira da Silva, a 22-year-old self-taught frontend develop
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva27&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
