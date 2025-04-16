@@ -1,4 +1,4 @@
-## **`Frontend Developer`**
+## **`Frontend Developer 🇵🇹`**
 
 I'm João Gonçalo Ferreira da Silva, a 22-year-old self-taught frontend developer based in Lisbon, Portugal. I specialize in building dynamic, interactive user experiences with **React JS** and am constantly expanding my technical toolkit.
 
@@ -16,7 +16,7 @@ I'm João Gonçalo Ferreira da Silva, a 22-year-old self-taught frontend develop
 
 ---
 
-### Tech Stack
+<h3 align="center"><ins>Tech Stack</ins></h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
