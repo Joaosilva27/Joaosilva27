@@ -47,18 +47,5 @@ Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experi
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Portfolio&theme=tokyonight)](https://github.com/Joaosilva27/Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=QuillNot_Paraphraser&theme=tokyonight)](https://github.com/Joaosilva27/QuillNot_Paraphraser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Grocery-List2.0&theme=tokyonight)](https://github.com/Joaosilva27/Grocery-List2.0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Modern-Amazon&theme=tokyonight)](https://github.com/Joaosilva27/Modern-Amazon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=skin-tone-match-ai&theme=tokyonight)](https://github.com/Joaosilva27/skin-tone-match-ai)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=trivia-game-buzz&theme=tokyonight)](https://github.com/Joaosilva27/trivia-game-buzz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Tobimasu-Music&theme=tokyonight)](https://github.com/Joaosilva27/Tobimasu-Music)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=idlsmartbar&theme=tokyonight)](https://github.com/Joaosilva27/idlsmartbar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=pokemontcg&theme=tokyonight)](https://github.com/Joaosilva27/pokemontcg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Pokedex-Emerald&theme=tokyonight)](https://github.com/Joaosilva27/Pokedex-Emerald)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=PhotoBooth&theme=tokyonight)](https://github.com/Joaosilva27/PhotoBooth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=tweex&theme=tokyonight)](https://github.com/Joaosilva27/tweex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=weather&theme=tokyonight)](https://github.com/Joaosilva27/weather)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=grocery-list&theme=tokyonight)](https://github.com/Joaosilva27/grocery-list)
+
 </div>
