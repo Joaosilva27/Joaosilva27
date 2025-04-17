@@ -59,5 +59,6 @@ Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Pokedex-Emerald&theme=tokyonight)](https://github.com/Joaosilva27/Pokedex-Emerald)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=PhotoBooth&theme=tokyonight)](https://github.com/Joaosilva27/PhotoBooth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=tweex&theme=tokyonight)](https://github.com/Joaosilva27/tweex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=weather&theme=tokyonight)](https://github.com/Joaosilva27/weather)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=weather&theme=tokyonight)](https://github.com/Joaosilva27/weather)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=grocery-list&theme=tokyonight)](https://github.com/Joaosilva27/grocery-list)
 </div>
