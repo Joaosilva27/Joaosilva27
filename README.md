@@ -35,7 +35,7 @@ Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experi
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged&hide=issues"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
