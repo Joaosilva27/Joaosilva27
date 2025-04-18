@@ -35,11 +35,11 @@ Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experi
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva27&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&show=prs_merged&hide=issues"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva27&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&show=prs_merged&hide=issues"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva27&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva27&layout=compact&langs_count=7&theme=material-palenight"/>
   </a>
 </div>
 
@@ -47,19 +47,19 @@ Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experi
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Portfolio&theme=cobalt)](https://github.com/Joaosilva27/Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=QuillNot_Paraphraser&theme=cobalt)](https://github.com/Joaosilva27/QuillNot_Paraphraser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Grocery-List2.0&theme=cobalt)](https://github.com/Joaosilva27/Grocery-List2.0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Modern-Amazon&theme=cobalt)](https://github.com/Joaosilva27/Modern-Amazon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=skin-tone-match-ai&theme=cobalt)](https://github.com/Joaosilva27/skin-tone-match-ai)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=trivia-game-buzz&theme=cobalt)](https://github.com/Joaosilva27/trivia-game-buzz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Tobimasu-Music&theme=cobalt)](https://github.com/Joaosilva27/Tobimasu-Music)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=idlsmartbar&theme=cobalt)](https://github.com/Joaosilva27/idlsmartbar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=pokemontcg&theme=cobalt)](https://github.com/Joaosilva27/pokemontcg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Pokedex-Emerald&theme=cobalt)](https://github.com/Joaosilva27/Pokedex-Emerald)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=PhotoBooth&theme=cobalt)](https://github.com/Joaosilva27/PhotoBooth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=tweex&theme=cobalt)](https://github.com/Joaosilva27/tweex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=weather&theme=cobalt)](https://github.com/Joaosilva27/weather)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=grocery-list&theme=cobalt)](https://github.com/Joaosilva27/grocery-list)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Portfolio&theme=material-palenight)](https://github.com/Joaosilva27/Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=QuillNot_Paraphraser&theme=material-palenight)](https://github.com/Joaosilva27/QuillNot_Paraphraser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Grocery-List2.0&theme=material-palenight)](https://github.com/Joaosilva27/Grocery-List2.0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Modern-Amazon&theme=material-palenight)](https://github.com/Joaosilva27/Modern-Amazon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=skin-tone-match-ai&theme=material-palenight)](https://github.com/Joaosilva27/skin-tone-match-ai)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=trivia-game-buzz&theme=material-palenight)](https://github.com/Joaosilva27/trivia-game-buzz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Tobimasu-Music&theme=material-palenight)](https://github.com/Joaosilva27/Tobimasu-Music)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=idlsmartbar&theme=material-palenight)](https://github.com/Joaosilva27/idlsmartbar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=pokemontcg&theme=material-palenight)](https://github.com/Joaosilva27/pokemontcg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=Pokedex-Emerald&theme=material-palenight)](https://github.com/Joaosilva27/Pokedex-Emerald)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=PhotoBooth&theme=material-palenight)](https://github.com/Joaosilva27/PhotoBooth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=tweex&theme=material-palenight)](https://github.com/Joaosilva27/tweex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=weather&theme=material-palenight)](https://github.com/Joaosilva27/weather)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaosilva27&repo=grocery-list&theme=material-palenight)](https://github.com/Joaosilva27/grocery-list)
 
 </div>
