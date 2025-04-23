@@ -1,5 +1,5 @@
 ## **`Frontend Developer 🇵🇹`**
-Self-taught frontend developer from Lisbon, 22 y.o., crafting interactive experiences with React.js and always expanding my dev toolkit.
+Self-taught frontend developer based in Lisbon, 22 y.o., crafting interactive experiences with React.js and always expanding my dev toolkit.
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://joaoportfolio.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=gleam" alt="Portfolio">
